@@ -1,0 +1,11 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+test.pl
+tdiff.pl
+Text.pm
+diff.html
+diff.t
+old.txt
+new.txt
